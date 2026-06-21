@@ -151,10 +151,7 @@ Business Recommendations
 
 ## Dashboard 3 – Product & Country Analysis
 
-> *📌 Add Dashboard 3 Screenshot Here*
-
-markdown
-![Product & Country Dashboard](Dashboard%20Screenshots/product_country_analysis.png)
+![Product & Country Dashboard](https://github.com/AshleshaAhirkar/Ecommerece_Return_Analysis/blob/main/Product%20%26%20Country%20Analysis.png)
 
 
 ### Dashboard Highlights
