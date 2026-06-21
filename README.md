@@ -106,7 +106,7 @@ The dataset contains transactional records of an online retail business, includi
 
 ## Dashboard 1 – Overview
 
-![Overview Dashboard](https://github.com/AshleshaAhirkar/Ecommerece_Return_Analysis/blob/main/Overview.png)
+![Overview Dashboard](https://github.com/AshleshaAhirkar/Ecommerece_Return_Analysis/blob/main/1.%20Overview.png)
 
 
 ### Dashboard Highlights
