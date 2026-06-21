@@ -143,7 +143,7 @@ The dataset contains transactional records of an online retail business, includi
 
 ## Dashboard 3 – Product & Country Analysis
 
-![Product & Country Dashboard](https://github.com/AshleshaAhirkar/Ecommerece_Return_Analysis/blob/main/Product%20%26%20Country%20Analysis.png)
+![Product & Country Dashboard](https://github.com/AshleshaAhirkar/Ecommerece_Return_Analysis/blob/main/3.%20Product%20%26%20Country%20Analysis.png)
 
 
 ### Dashboard Highlights
