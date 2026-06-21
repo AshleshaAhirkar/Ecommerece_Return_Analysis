@@ -114,10 +114,7 @@ Business Recommendations
 
 ## Dashboard 1 – Overview
 
-> *📌 Add Dashboard 1 Screenshot Here*
-
-markdown
-![Overview Dashboard](Dashboard%20Screenshots/overview.png)
+![Overview Dashboard](https://github.com/AshleshaAhirkar/Ecommerece_Return_Analysis/blob/main/Overview.png)
 
 
 ### Dashboard Highlights
