@@ -230,21 +230,9 @@ https://app.fabric.microsoft.com/view?r=eyJrIjoiMzFiYmU2ZGEtYzQ0MS00MTljLWFjZmMt
 
 ---
 
-## 📁 Repository Structure
+## 📄 Project Documentation
 
-plaintext
-Ecommerce-Return-Analysis/
-│
-├── 📂 Dataset/
-├── 📂 SQL Scripts/
-├── 📂 Dashboard Screenshots/
-├── 📂 Dashboard Architecture/
-├── 📂 Documentation/
-├── 📂 Power BI Dashboard/
-├── 📄 Project Documentation.pdf
-├── 📄 README.md
-└── 📄 Ecommerce_Return_Analysis.pbix
-
+For a detailed explanation of the project, including the business problem, data cleaning process, SQL analysis, dashboard development, business insights, recommendations, and overall project outcomes, please refer to the *Project Documentation.pdf* available in this repository.
 
 ---
 
@@ -252,11 +240,4 @@ Ecommerce-Return-Analysis/
 
 *Ashlesha Ahirkar*
 
-Aspiring Data Analyst passionate about transforming raw data into actionable business insights using SQL, Power BI, and Business Intelligence.
-
-- 💼 LinkedIn: *Add Your LinkedIn Profile*
-- 💻 GitHub: *Add Your GitHub Profile*
-
 ---
-
-## ⭐ If you found this project useful, consider giving it a Star!
