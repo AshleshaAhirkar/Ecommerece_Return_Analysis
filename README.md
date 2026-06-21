@@ -126,7 +126,7 @@ The dataset contains transactional records of an online retail business, includi
 
 ## Dashboard 2 – Customer Risk Analysis
 
-![Customer Risk Dashboard](https://github.com/AshleshaAhirkar/Ecommerece_Return_Analysis/blob/main/Customer%20Risk%20Analysis.png)
+![Customer Risk Dashboard](https://github.com/AshleshaAhirkar/Ecommerece_Return_Analysis/blob/main/2.%20Customer%20Risk%20Analysis.png)
 
 
 ### Dashboard Highlights
